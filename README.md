@@ -1,2 +1,7 @@
 # TLGitShop
-Demo learning Git
+Demo learning GitHub
+title
+programmes
+function
+howtouse
+howtocontribute
